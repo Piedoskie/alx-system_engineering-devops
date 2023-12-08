@@ -1,2 +1,4 @@
 #!/bin/bash
-file school
+file -C -m magic
+file -m magic.mgc school
+
